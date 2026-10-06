@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.teamcode.pedro;
+package org.firstinspires.ftc.teamcode.Pedro;
 
 import com.pedropathing.tuning.autotune.Procedure;
 import com.pedropathing.tuning.autotune.Tuner;
