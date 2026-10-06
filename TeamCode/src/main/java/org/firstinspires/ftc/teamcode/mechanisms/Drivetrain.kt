@@ -6,7 +6,7 @@ import dev.nextftc.hardware.RobotController
 
 import dev.nextftc.hardware.actuators.NextMotor
 import dev.nextftc.robot.Mechanism
-import org.firstinspires.ftc.teamcode.Data.Config
+import org.firstinspires.ftc.teamcode.data.Config
 
 class Drivetrain : Mechanism {
     val frontLeft = NextMotor(RobotController.controlHub, Config.frontLeftMotor)
